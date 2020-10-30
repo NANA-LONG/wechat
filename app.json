@@ -1,0 +1,69 @@
+{
+  "pages": [
+    "pages/center/center",
+    "pages/music/music",
+    "pages/bofq/bofq",
+    "pages/map/map",
+    "pages/shouye01/shouye01",
+    "pages/personal/personal",
+    "pages/shouye03/shouye03",
+    "pages/video/video",
+    "pages/swiper02/swiper02",
+    "pages/boflb/boflb",
+    "pages/weather/weather",
+    "pages/index/index"
+  ],
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#ff0000",
+    "list": [
+      {
+        "pagePath": "pages/shouye01/shouye01",
+        "text": "邀请函",
+        "iconPath": "images/invite.png",
+        "selectedIconPath": "images/invite.png"
+      },
+      {
+        "pagePath": "pages/swiper02/swiper02",
+        "text": "照片",
+        "iconPath": "images/marry.png",
+        "selectedIconPath": "images/marry.png"
+      },
+      {
+        "pagePath": "pages/video/video",
+        "text": "美好时光",
+        "iconPath": "images/video.png",
+        "selectedIconPath": "images/video.png"
+      },
+      {
+        "pagePath": "pages/map/map",
+        "text": "婚礼地点",
+        "iconPath": "images/map.png",
+        "selectedIconPath": "images/map.png"
+      },
+      {
+        "pagePath": "pages/shouye03/shouye03",
+        "text": "宾客信息",
+        "iconPath": "images/guest.png",
+        "selectedIconPath": "images/guest.png"
+      }
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ff359a",
+    "navigationBarTitleText": "邀请函",
+    "navigationBarTextStyle": "white"
+  },
+  "plugins": {
+    "tencentvideo": {
+      "version": "1.3.9",
+      "provider": "wxa75efa648b60994b"
+    }
+  },
+  "requiredBackgroundModes": [
+    "audio",
+    "location"
+  ],
+  "sitemapLocation": "sitemap.json"
+}

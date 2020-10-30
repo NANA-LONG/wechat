@@ -1,0 +1,26 @@
+﻿{
+"recommend_data":[{
+  "music_name":"紫罗兰",
+  "image_url":"http://localhost:3000/cover.jpg"
+}, 
+{
+  "music_name":"五月之歌",
+  "image_url":"http://localhost:3000/cover.jpg"
+},
+{
+  "music_name":"菩提树",
+  "image_url":"http://localhost:3000/cover.jpg"
+},
+{
+  "music_name":"欢乐颂",
+  "image_url":"http://localhost:3000/cover.jpg"
+},
+{
+  "music_name":"安魂曲",
+  "image_url":"http://localhost:3000/cover.jpg"
+},
+{
+  "music_name":"摇篮曲",
+  "image_url":"http://localhost:3000/cover.jpg"
+}]
+}
